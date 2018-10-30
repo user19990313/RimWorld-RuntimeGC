@@ -1,0 +1,66 @@
+[h1]RuntimeGC In-Game Cleaner[/h1]
+for 1.0 (build 2059)
+
+This mod supports the following languages : English,繁簡中文,日本語,German.
+这个mod支持的语言：English，繁簡中文，日本語，German。
+
+This mod is also published on Ludeon Forum.
+Click [url=https://ludeon.com/forums/index.php?topic=46581.msg442647]Here[/url] for previous releases and licenses.
+Click [url=https://github.com/user19990313/RimWorld-RuntimeGC]Here[/url] for GitHub repo.
+
+[url=https://www.buymeacoffee.com/r4zlHK2qC]Buy a coffee for RuntimeGC![/url]
+
+[b][i]What's new in this release:[/i][/b]
++(New) A dynamic Memory Monitor - Fully costomizable!
++(New) 3 new Auto-cleanup items!
++(New) Show Debug Log without enabling Dev Mode!
++(New) Remove snow!
++(New) Useful hacks - close all letters, unlock speed limit, etc.
++(New) RuntimeGC now has a mod setting page!
++(New) Integrated MuteGC and MuteCL mods!
++All cleaning tools are always available - and dev mode grants you more tester-oriented OP cleanings!
+
+SUMMARY : [b]Creating a new game is [u][i]NOT[/i][/u] required![/b]
+If you find the mod useful,why don't you click "Thumbs Up"? :) Thanks!
+
+How could you salvage your over-sized savegame?
+How could you make your game running smoothly as it used to be?
+Well,you're lucky because you're using this mod!
+
+[h1]You can:[/h1]
+-[u]Remove unnecessary World Pawns[/u] to alleviate burden of GameSystem
+-[u]Clear AvoidGrids[/u] to reduce the size of your savegame
+-Remove useless members(dead or of other factions) in an animal family
+-[u]Remove filth [b]and snow[/b] in HomeArea[/u]
+-[u]Remove corpses in current map[/u]
+-Remove BattleLog entries
+-Fix some faction relationships error(Those caused by mod conflicts are not included!)
+-[u]Re-generate faction leaders to fix some CommTable issues.[/u]
+-[u]Reclaim Memory[/u] used by GameSystem to boost up game performance
+
+[h1]Usage:[/h1]
+1.Activate this mod(after Core mod)
+2.Load your savegame
+3.[u]Find a tab called "RuntimeGC" at the bottom of your screen[/u]
+4.Click,and do some cleaning with the GUI
+
+Enjoy!
+
+[h1]PS[/h1]
+PS. The longer you played(year-in-game),the more effective this cleaning will be.
+PS2. Sometimes errors occur like "Tried to remove xxx from RimWorld.WorldPawns,but it's not here."They're unavoidable as I should thouroughly de-register every pawn(to avoid further bugs).But,[b]they're harmless,so just ignore them.[/b]
+PS3. Post any errors or bugs here or on my forum page.Your effort contributes to a better mod.Thanks!
+PS4. You know, [spoiler]Too expensive to buy[/spoiler]
+
+[h1]Other[/h1]
+[i]Compatibility:[/i] No known mod conflict yet.
+[i]Installation:[/i]
+Add this mod any time you like.
+Remove this mod any time you like.
+You don't have to create a new game.
+[h1]You should obey the clauses mentioned in the forum thread when adding this mod into your modpack.[/h1]
+[h1]If you want to translate this mod into other languages, please check GitHub link above for details.[/h1]
+
+Special Thanks to A16 testers:
+[Check About.xml for their codes]
+Thanks for your splendid work in Close-Alpha tests!
