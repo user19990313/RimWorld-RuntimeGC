@@ -1,0 +1,16 @@
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csprojResolveAssemblyReference.cache
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\RuntimeGC.dll
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\RuntimeGC.pdb
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\Assembly-CSharp.dll
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\UnityEngine.dll
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.dll
+D:\CSharp_dir\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.pdb
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\RuntimeGC.dll
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\RuntimeGC.pdb
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\Assembly-CSharp.dll
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\bin\Debug\UnityEngine.dll
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csprojAssemblyReference.cache
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csproj.CoreCompileInputs.cache
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csproj.CopyComplete
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.dll
+D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.pdb
