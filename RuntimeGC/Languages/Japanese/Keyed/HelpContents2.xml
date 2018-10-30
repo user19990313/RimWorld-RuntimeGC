@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-  <HelpTextGCV>掃除：デバッグ専用(MOD開発者向け・デバッグ用)
+  <HelpTextGCV>CleanUp(Debug only)
 
-（MODの）作成者があなたに尋ねる時だけこのボタンを押して下さい。</HelpTextGCV>
-  <HelpTextAG>掃除：回避経路
+Click this button ONLY when the author ask you to.</HelpTextGCV>
+  <HelpTextQB>Quickbar
 
-敵は回避経路を使って、あなたの罠やタレットなどを回避します。
-回避経路は攻撃がないときは無意味なので、セーブデータを軽量化するために(マップの数やサイズに応じて)掃除してください。
+Close All Letters:
+	All letters will disappear as if you dismissed every of them! The lazier the better!
 
-BasicとSmart AvoidGridの違いを理解できない場合は、推奨される「Both」を使用してください。
+Unlock Normal Speed Limit:
+	Unlock the arbitrary Normal Speed limit brought by large threats or assaults. Note this will not permanently disable the speed limit and you will have to unlock it again the next time a limit is triggered. (And it's designed for skipping the march before engage, not for bypassing speed limit during the whole battle)
 
-警告:敵が攻撃しているときは、この掃除を行わないで下さい！</HelpTextAG>
+Change RuntimeGC Settings:
+	Bring up Mod Settings page (vanilla page, if you enabled HugsLib).
+</HelpTextQB>
 
 </LanguageData>
