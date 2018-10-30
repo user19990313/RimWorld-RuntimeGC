@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-  <HelpTextGCV>CleanUp(Debug only)
+  <HelpTextGCV>掃除：デバッグ専用(MOD開発者向け・デバッグ用)
 
-Click this button ONLY when the author ask you to.</HelpTextGCV>
-  <HelpTextQB>Quickbar
+（MODの）作成者があなたに尋ねる時だけこのボタンを押して下さい。</HelpTextGCV>
+  <HelpTextQB>クイックバー
 
-Close All Letters:
-	All letters will disappear as if you dismissed every of them! The lazier the better!
+すべてのレターを閉じる：
+あなたが全てのレターを閉じたのと同じように、全てのレターは消えるでしょう！ 怠けているよりは良いはずです！
 
-Unlock Normal Speed Limit:
-	Unlock the arbitrary Normal Speed limit brought by large threats or assaults. Note this will not permanently disable the speed limit and you will have to unlock it again the next time a limit is triggered. (And it's designed for skipping the march before engage, not for bypassing speed limit during the whole battle)
+通常速度の制限を解除する：
+大規模な脅威や襲撃によって切り替えられる強制的な通常速度(x1)への制限を解除します。これは速度制限を永久に無効化するわけではなく、次の速度制限が発生したとき再び解除する必要があることに注意してください。（これは戦闘前の行進をスキップするように設計されており、戦闘全体の速度制限(軽さを)を保証するためではありません）
 
-Change RuntimeGC Settings:
-	Bring up Mod Settings page (vanilla page, if you enabled HugsLib).
+RuntimeGCの設定を変更する：
+Modオプション設定の画面（HugsLibを有効にした場合、バニラの窓）を表示します。
 </HelpTextQB>
 
 </LanguageData>
