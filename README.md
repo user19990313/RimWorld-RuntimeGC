@@ -5,7 +5,8 @@ A RimWorld mod - RuntimeGC
 Cleaning save files, recycling runtime memory, etc.
 
 # Where can I subscribe this mod?
-Search "RuntimeGC" on Steam Workshop or Ludeon Forums. I will update url links later.
+Ludeon Forums: https://ludeon.com/forums/index.php?topic=46581
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=962732083
 
 # What kind of changes may I contribute?
 1. Bug fixes. Note that you must test it yourself at least.
