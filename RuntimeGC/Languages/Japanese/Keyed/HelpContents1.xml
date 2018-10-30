@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-  <HelpTextGCWP>清掃 : 不要な"ワールドポーン"を削除
+  <HelpTextGCWP>掃除：ワールドポーン（不要な「ワールドポーン」を削除します)
 
 
-（マップ端から歩いて出るなどして、）マップから消えたポーンは"ワールドポーン"として扱われ、死んだポーンと同じです。
+（マップ端から歩いて出るなどして、）マップから消えたポーンは「ワールドポーン」として扱われ、死んだポーンと同じです。
 
 ワールドポーンには、重要なポーン（派閥指導者、あなたのキャラバンメンバー、死んだ親戚など）を保持し、親戚関係をより現実的にするように設計されています。
 
-But you won't mind removing useless ones to make your game run as smoothly as it used to...or 24fps at least,will you?
+しかし、あなたが無駄なものを取り除いても、以前と同じようにスムーズにゲームを動かすことはできません...せいぜい24fpsぐらいでしょう。
 
 
 
@@ -24,7 +24,7 @@ But you won't mind removing useless ones to make your game run as smoothly as it
 
 -芸術品に使われているすべての物語は保存されていますが、未使用の物語の一部削除。
 
-And many patches are imported to avoid potential bugs,just feel free to do this cleaning!
+潜在的なバグを避けるために、多くのパッチを挿入します。
 
 
 
