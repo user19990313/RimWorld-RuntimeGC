@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RuntimeGCTitle>RuntimeGC In-Game Cleaner</RuntimeGCTitle>
+  <RuntimeGCVer>For {0}</RuntimeGCVer>
+
+  <MainTabWindowDescription>このタブには多くの便利な機能が含まれています。
+クリーン、ブースト、またはあなたの現在のセーブゲームを修正してください。</MainTabWindowDescription>
+
+  <BtnTextGCWP>清掃：ワールドポーン</BtnTextGCWP>
+  <BtnTextGCV>清掃：デバッグ専用</BtnTextGCV>
+  <BtnTextAG>清掃：回避グリッド</BtnTextAG>
+  <BtnTextAddOn>追加の清掃</BtnTextAddOn>
+  <BtnTextFix>修正ツール</BtnTextFix>
+  <BtnTextSysGC>メモリの再利用</BtnTextSysGC>
+
+  <MsgTextSysGC>System.GC : メモリを取り戻しました！</MsgTextSysGC>
+
+  <DlgTextGC>pawnsAlive: {0} -> {1}
+pawnsDead:  {2} -> {3}
+
+ポーンが削除されました： {4}体</DlgTextGC>
+  <DlgTextGCAdvice1>不要なワールドポーンが全て削除されています。
+かなり暫くの間、このボタンを押す必要はありません。</DlgTextGCAdvice1>
+  <DlgTextGCAdvice2>まだ不要な{0}体のワールドポーンが削除されていません。
+徹底的な清掃を完了するために、もう一度このボタンを押すことを強く推奨します。</DlgTextGCAdvice2>
+  <DlgTextGCV>RuntimeGC:output.txtの詳細な出力を確認する</DlgTextGCV>
+
+  <FloatAvoidGridItems1>AvoidGridBasic</FloatAvoidGridItems1>
+  <FloatAvoidGridItems2>AvoidGridSmart</FloatAvoidGridItems2>
+  <FloatAvoidGridItems3>Both(推奨選択)</FloatAvoidGridItems3>
+
+  <FloatFactionFixItems1>派閥の関係</FloatFactionFixItems1>
+  <FloatFactionFixItems2>派閥の指導者</FloatFactionFixItems2>
+
+  <FloatToolsItems1>動物の家族関係</FloatToolsItems1>
+  <FloatToolsItems2>ホームエリアの汚れを削除</FloatToolsItems2>
+  <FloatToolsItems3>現在のマップ内にある死体を削除</FloatToolsItems3>
+  <FloatToolsItems4>戦闘ログエントリを削除</FloatToolsItems4>
+
+  <MsgTextAGB>RuntimeGC: {0}箇所の AvoidGridBasic を清掃しました。</MsgTextAGB>
+  <MsgTextAGS>RuntimeGC: {0}箇所の AvoidGridSmart を清掃しました。</MsgTextAGS>
+
+  <MsgTextFFR>RuntimeGC:派閥の関係が修正されました</MsgTextFFR>
+  <MsgTextFFL>RuntimeGC: {0}人のリーダーが再生成（固定）されました。.</MsgTextFFL>
+
+  <MsgTextAFT>RuntimeGC: 動物の家族から冗長したメンバー{0}匹を削除しました。</MsgTextAFT>
+  <MsgTextRFH>RuntimeGC: コロニーゾーンから{0}箇所の汚れを削除しました。</MsgTextRFH>
+  <MsgTextRCM>RuntimeGC: 現在のマップから{0}体の死体を削除しました。</MsgTextRCM>
+  <MsgTextRBL>RuntimeGC: {0}の戦闘ログエントリが削除されました。</MsgTextRBL>
+
+</LanguageData>

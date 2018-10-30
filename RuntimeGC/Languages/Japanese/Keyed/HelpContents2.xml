@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <HelpTextGCV>清掃(MOD開発者向け・デバッグ用)
+
+（MODの）作成者があなたに尋ねる時だけこのボタンを押して下さい。</HelpTextGCV>
+  <HelpTextAG>清掃 回避グリッド
+
+敵は回避グリッドを使って、あなたの罠やタレットなどを回避します。
+回避グリッドは攻撃がないときは役に立たないので、セーブデータを軽量化するために(マップの数やサイズに応じて)清掃してください。
+
+BasicとSmart AvoidGridの違いを理解できない場合は、推奨される「Both」を使用してください。
+
+警告:敵が攻撃しているときは、この清掃を行わないで下さい！</HelpTextAG>
+
+</LanguageData>
