@@ -1,0 +1,65 @@
+[h1]RuntimeGC In-Game Cleaner[/h1]
+para 1.0 (build 2059)
+
+Este mod esta disponible en los siguientes idiomas: Ingl¨¦s, Chino tradicional, Japon¨¦s, Alem¨¢n y Espa?ol.
+
+Este mod tambi¨¦n se publica en el foro de Ludeon.
+Clica [url=https://ludeon.com/forums/index.php?topic=46581.msg442647]aqu¨ª[/url] para versiones anteriores y licencias.
+Clic a[url=https://github.com/user19990313/RimWorld-RuntimeGC]aqu¨ª[/url] para el repositorio de GitHub.
+
+[url=https://www.buymeacoffee.com/r4zlHK2qC]inv¨ªtame un cafe por RuntimeGC![/url]
+
+[b][i]Que hay de nuevo en esta versi¨®n:[/i][/b]
++(Nuevo) Un monitor de memoria din¨¢mico - ?totalmente personalizable!
++(Nuevo) ?3 nuevos complementos de Auto-limpieza!
++(Nuevo) ?3 nuevos complementos de Auto-limpieza!
++(Nuevo) ?Quitar la nieve!
++(Nuevo) Hacks ¨²tiles - cerrar todas las notificaciones, desbloquear el l¨ªmite de velocidad, etc.
++(Nuevo) ?RuntimeGC ahora tiene una p¨¢gina de configuraci¨®n de mod!
++(Nuevo) ?Mods MuteGC y MuteCL integrados!
++?Todas las herramientas de limpieza est¨¢n siempre disponibles y el modo desarrollador le garantiza una mejor limpieza OP orientada a los tester!
+
+RESUMEN : [b]?Este mod [u][i]NO[/i][/u] requiere iniciar una nueva partida![/b]
+Si encuentras el mod ¨²til, ?por qu¨¦ no haces clic al "Pulgar arriba"? :) ?Gracias!
+
+?C¨®mo podr¨ªas rescatar su partida guardada de gran tama?o?
+?C¨®mo podr¨ªas hacer que el juego funcione sin problemas como sol¨ªa ser?
+Bueno, ?Tienes suerte porque est¨¢s usando este mod!
+
+[h1]Permite:[/h1]
+-[u]Eliminar peones del mundo innecesarios[/u] para aliviar la carga de "GameSystem"
+-[u]Limpieza de "AvoidGrids"[/u] para reducir el tama?o de tu partida guardada
+-Eliminar a los familiares inservibles (muertos o de otras facciones) de los animales
+-[u]Eliminar la suciedad [b]y la nieve[/b] en el ¨¢rea de hogar[/u]
+-[u]Eliminar cad¨¢veres en el mapa actual[/u]
+-Eliminar entradas de "BattleLog"
+-Arreglar algunos errores en las relaciones de facci¨®n (?Los causados por conflictos de mod no est¨¢n incluidos!)
+-[u]Re-generar l¨ªderes de facci¨®n para arreglar algunos errores de "CommTable"[/u]
+-[u]Recuperar Memoria[/u] utilizada por "GameSystem" con el fin de aumentar el rendimiento del juego
+
+[h1]Uso:[/h1]
+1.Activar este mod (despu¨¦s de Core mod)
+2.Cargar una partida guardada
+3.[u]Encontrar una pesta?a llamada "RuntimeGC" en la parte inferior de la pantalla[/u]
+4.Haga clic y limpie mediante la interfaz gr¨¢fica
+
+?Divi¨¦rtete!
+
+[h1]PD[/h1]
+PD: Cuanto m¨¢s tiempo se juegue (a?os en el juego), m¨¢s efectiva ser¨¢ esta limpieza.
+PD2: A veces se producen errores como "Tried to remove xxx from RimWorld.WorldPawns,but it's not here." Son inevitables, ya que es necesario eliminar el registro de cada pe¨®n (para evitar la aparici¨®n de nuevos errores). En cualquier caso,[b]son inofensivos, as¨ª que ign¨®ralos.[/b]
+PD3: Publicar cualquier error o error aqu¨ª o en mi p¨¢gina del foro. Tu aportaci¨®n contribuye a un mejor mod. ?Gracias!
+PD4: Ya sabes, [spoiler]es demasiado caro para comprarlo[/spoiler]
+
+[h1]Otros[/h1]
+[i]Compatibilidad:[/i] Todav¨ªa no se conoce ning¨²n conflicto.
+[i]Instalaci¨®n:[/i]
+A?ade este mod cuando quieras.
+Elimina este mod cuando quieras.
+No es necesario crear una nueva partida.
+[h1]Debes cumplir con las cl¨¢usulas indicadas en el hilo del foro cuando agregues este mod a tu modpack.[/h1]
+[h1]Si quieres traducir este mod a otros idiomas, por favor revisa el enlace de GitHub que aparece arriba para m¨¢s detalles.[/h1]
+
+Un agradecimiento especial a los testers de A16:
+[Comprueba About.xml para saber sus c¨®digos]
+Gracias por el espl¨¦ndido trabajo en las pruebas de Alfa cerrada! 
