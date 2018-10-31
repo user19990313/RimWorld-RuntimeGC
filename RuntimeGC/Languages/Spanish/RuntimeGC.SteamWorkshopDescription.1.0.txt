@@ -5,7 +5,7 @@ Este mod esta disponible en los siguientes idiomas: Inglés, Chino tradicional, 
 
 Este mod también se publica en el foro de Ludeon.
 Clica [url=https://ludeon.com/forums/index.php?topic=46581.msg442647]aquí[/url] para versiones anteriores y licencias.
-Clic a[url=https://github.com/user19990313/RimWorld-RuntimeGC]aquí[/url] para el repositorio de GitHub.
+Clica [url=https://github.com/user19990313/RimWorld-RuntimeGC]aquí[/url] para el repositorio de GitHub.
 
 [url=https://www.buymeacoffee.com/r4zlHK2qC]¡Invítame un cafe por RuntimeGC![/url]
 
