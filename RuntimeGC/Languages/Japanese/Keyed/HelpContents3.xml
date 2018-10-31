@@ -45,10 +45,9 @@ AvoidGridを再構成する：
 
 
 System.GC.Collect（）を呼び出すと、メモリ（GameSystemで使用される）がフリレッシュされます。（RimWorld以外のプログラムには影響しません）。
-ゲームパフォーマンスが少し向上します（ですがすぐに元に戻ります）。</HelpTextSysGC>
+ゲームパフォーマンスが少し向上します（ですがすぐに元に戻ります）。
 
-Shiftキー+クリック：自動クリーンアップコマンドを手動で実行します。RuntimeGCのMod設定で詳細を確認してください。</ HelpTextSysGC>
-
+Shiftキー+クリック：自動クリーンアップコマンドを手動で実行します。RuntimeGCのMod設定で詳細を確認してください。</HelpTextSysGC>
 
 
 </LanguageData>
