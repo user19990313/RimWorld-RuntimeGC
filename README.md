@@ -30,7 +30,7 @@ Follow the steps:
 2. Copy RuntimeGC/Languages/English folder.
 3. Translate all the Keyed contents. Please do not make DefInjections for MainButtonDef as it will be translated using 3 Keyed translations instead of using injections.
 4. Make sure the .xml files are saved using UTF-8 charset.
-5. Test your translations. *Make sure all button captions are not truncated and no errors appear in Translation Report*
+5. Test your translations. *Make sure all button captions are not truncated and no errors appear in Translation Report.*
 6. *(Optional)* Translate workshop description texts. **Recommended;** or other players using the same language will see English description texts instead.
 7. Commit using PR. Make sure you are targeting the right branch.
 8. Wait for comments. Once commented "Accepted", PR will be merged and released to mod sites **1 day later**. You can still tweak your commit during the period.
@@ -38,9 +38,11 @@ Follow the steps:
 # Translation progress
 Completed|Outdated
 ---------|--------
-English|Japanese(B18)(incl. workshop text)
-ChineseSimplified|German(B18)(incl. workshop text)
-ChineseTraditional|
+English|German (B18)
+ChineseSimplified|
+ChineseTraditional (AutoWave)|
+Japanese (@Proxyer)|
+Spanish (@53N4)|
 
  
  
