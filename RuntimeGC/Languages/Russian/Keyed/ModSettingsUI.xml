@@ -57,7 +57,7 @@
 	<SettingsArchiveGeneralTip>*Не рекомендуется*
 Сохраняет все уведомления RuntimeGC в ваше сохранение. Это может удалять множество внутриигровых сообщений из пула архива.</SettingsArchiveGeneralTip>
 
-	<SettingsReset>Сбросить к настройкам по умолчанию</SettingsReset>
+	<SettingsReset>По умолчанию</SettingsReset>
 
 	<UITicks>{0} тиков UI</UITicks>
 
