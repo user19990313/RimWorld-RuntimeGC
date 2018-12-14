@@ -26,7 +26,7 @@
 	
 	<MMTip>
 Использовано виртуальной машиной .NET: {0:F2} Mb
-Unity farmework и массовые ресурсы игры не включены.</MMTip>
+Unity framework и массовые ресурсы игры не включены.</MMTip>
 	<DlgArchiveTitle>RuntimeGC журнал очистки "мировых персонажей"</DlgArchiveTitle>
 	
 	<MsgModMetaDataCleaned>{0} метаданных модов удалено и {1} очищено.</MsgModMetaDataCleaned>
