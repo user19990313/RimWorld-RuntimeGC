@@ -5,7 +5,7 @@
 	<MsgTextFFR>RuntimeGC: Исправлены отношения фракций.</MsgTextFFR>
 	<MsgTextFFL>RuntimeGC: {0} лидер(ов) регенерировано(исправлено).</MsgTextFFL>
 	
-	<MsgTextAFT>RuntimeGC: {0} лишний(их) член(ов) в семьяъ животных удалено.</MsgTextAFT>
+	<MsgTextAFT>RuntimeGC: {0} лишний(их) член(ов) в семьях животных удалено.</MsgTextAFT>
 	<MsgTextRFH>RuntimeGC: {0} квадратов грязи удалено в домашней области.</MsgTextRFH>
 	<MsgTextRFM>RuntimeGC: {0} квадратов грязи удалено на карте.</MsgTextRFM>
 	<MsgTextRFW>RuntimeGC: {0} квадратов грязи удалено со всех карт.</MsgTextRFW>
