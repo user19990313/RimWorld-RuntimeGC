@@ -19,7 +19,7 @@
 	<FloatToolsItems5Dev>Разраб.: Удалить все сообщения</FloatToolsItems5Dev>
 
 	<QuickCloseLetStack>Закрыть все сообщения</QuickCloseLetStack>
-	<QuickUnlockSpeedLimit>Разблокировать нормальный предел скорости</QuickUnlockSpeedLimit>
+	<QuickUnlockSpeedLimit>Разблокировать максимальную скорость</QuickUnlockSpeedLimit>
 	<QuickOpenSettings>Изменить настройки RuntimeGC</QuickOpenSettings>
 
 	<FloatACModMetaData>Очистить ненужную информацию о модах</FloatACModMetaData>
