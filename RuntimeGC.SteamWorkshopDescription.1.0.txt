@@ -1,65 +1,66 @@
-[h1]RuntimeGC In-Game Cleaner[/h1]
-для RimWorld версии 1.0 (build 2059)
+﻿[h1]RuntimeGC In-Game Cleaner[/h1]
+for 1.0 (build 2059)
 
-Этот мод поддерживает следующие языки: Английский, Китайский (Традиционный), Японский, Немецкий, Русский.
+This mod supports the following languages : English,��������,�ձ��Z,German.
+���mod֧�ֵ����ԣ�English���������ģ��ձ��Z��German��
 
-Этот мод также опубликован на форуме Ludeon.
-Нажми [url=https://ludeon.com/forums/index.php?topic=46581.msg442647]здесь[/url] если нужна более старая версия или лицензии.
-Нажми [url=https://github.com/user19990313/RimWorld-RuntimeGC]здесь[/url] для открытия репозитория GitHub.
+This mod is also published on Ludeon Forum.
+Click [url=https://ludeon.com/forums/index.php?topic=46581.msg442647]Here[/url] for previous releases and licenses.
+Click [url=https://github.com/user19990313/RimWorld-RuntimeGC]Here[/url] for GitHub repo.
 
-[url=https://www.buymeacoffee.com/r4zlHK2qC]Купите кофе разработчику RuntimeGC![/url]
+[url=https://www.buymeacoffee.com/r4zlHK2qC]Buy a coffee for RuntimeGC![/url]
 
-[b][i]Что нового в данном выпуске:[/i][/b]
-+(Новое) Динамический монитор памяти - полностью персонализируемый!
-+(Новое) 3 новых метода автоочистки!
-+(Новое) Возможность показа журнала отладки без включения Режима разработчика!
-+(Новое) Удаление снега!
-+(Новое) Полезные хаки - закрытие всех сообщений, разблокировка лимита скорости, и т.д.
-+(Новое) RuntimeGC теперь имеет страницу настроек!
-+(Новое) Интегрированые моды MuteGC и MuteCL!
-+ Все инструменты очистки всегда доступны - и режим разработчика дает более направленные на тестировщиков варианты очистки!
+[b][i]What's new in this release:[/i][/b]
++(New) A dynamic Memory Monitor - Fully costomizable!
++(New) 3 new Auto-cleanup items!
++(New) Show Debug Log without enabling Dev Mode!
++(New) Remove snow!
++(New) Useful hacks - close all letters, unlock speed limit, etc.
++(New) RuntimeGC now has a mod setting page!
++(New) Integrated MuteGC and MuteCL mods!
++All cleaning tools are always available - and dev mode grants you more tester-oriented OP cleanings!
 
-ОПИСАНИЕ: [b]Создание новой игры [u][i]НЕ[/i][/u] требуется![/b]
-Если вам стал полезен этот мод, почему бы вам не нажать кнопку "Палец вверх"? :) Спасибо!
+SUMMARY : [b]Creating a new game is [u][i]NOT[/i][/u] required![/b]
+If you find the mod useful,why don't you click "Thumbs Up"? :) Thanks!
 
-Как бы ты мог спасти твою огромную сохраненную игру?
-Как бы ты мог сделать свою игру такой же быстрой как будто ты только ее запустил?
-Ну, ты очень везучий поскольку используешь этот мод!
+How could you salvage your over-sized savegame?
+How could you make your game running smoothly as it used to be?
+Well,you're lucky because you're using this mod!
 
-[h1]Ты можешь:[/h1]
-- [u]Удалять ненужных "мировых персонажей"[/u] для облегчения работы GameSystem
-- [u]Очистка AvoidGrid'ов[/u] для уменьшения размера сохраненной игры
-- Удаление бесполезных участников (мертвых или от других фракций) семей животных
-- [u]Удаление грязи [b]и снега[/b] в домашней области[/u]
-- [u]Удаление трупов на текущей карте[/u]
-- Удаление записей журнала битвы
-- Исправление некоторых отношений между фракциями (Не включая те что вызваны конфликтами модов!)
-- [u]Регенерация лидеров фракций для исправления некоторых проблем с Консолью связи.[/u]
-- [u]Перевыделение памяти[/u] используемой GameSystem для увеличения производительности игры
+[h1]You can:[/h1]
+-[u]Remove unnecessary World Pawns[/u] to alleviate burden of GameSystem
+-[u]Clear AvoidGrids[/u] to reduce the size of your savegame
+-Remove useless members(dead or of other factions) in an animal family
+-[u]Remove filth [b]and snow[/b] in HomeArea[/u]
+-[u]Remove corpses in current map[/u]
+-Remove BattleLog entries
+-Fix some faction relationships error(Those caused by mod conflicts are not included!)
+-[u]Re-generate faction leaders to fix some CommTable issues.[/u]
+-[u]Reclaim Memory[/u] used by GameSystem to boost up game performance
 
-[h1]Использование:[/h1]
-1. Активировать мод (после мода Core)
-2. Загрузить твою сохраненную игру
-3. [u]Найти вкладку "RuntimeGC" внизу экрана[/u]
-4. Нажать и выполнить очистку через GUI
+[h1]Usage:[/h1]
+1.Activate this mod(after Core mod)
+2.Load your savegame
+3.[u]Find a tab called "RuntimeGC" at the bottom of your screen[/u]
+4.Click,and do some cleaning with the GUI
 
-Наслаждайся!
+Enjoy!
 
 [h1]PS[/h1]
-PS. Чем дольше ты играешь в игру (внутриигровой год), тем более качественной и эффективной очистка будет.
-PS2. Иногда возникает ошибка наподобие этой "Попытка удалить персонажа xxx из RimWorld.WorldPawns, но он отсутствовал." Это неизбежно так как я должен удалять каждого персонажа тщательно проверяя их (Для избежания ошибок в будующем). Но, [b]они неявляются важными или опасными, так что их можно просто игнорировать.[/b]
-PS3. Отправляй любые ошибки или баги на моей странице на форуме. Ваши усилия помогут сделать мод лучше. Спасибо!
-PS4. Ты знаешь, [spoiler]слишком дорого стоит, чтобы купить[/spoiler]
+PS. The longer you played(year-in-game),the more effective this cleaning will be.
+PS2. Sometimes errors occur like "Tried to remove xxx from RimWorld.WorldPawns,but it's not here."They're unavoidable as I should thouroughly de-register every pawn(to avoid further bugs).But,[b]they're harmless,so just ignore them.[/b]
+PS3. Post any errors or bugs here or on my forum page.Your effort contributes to a better mod.Thanks!
+PS4. You know, [spoiler]Too expensive to buy[/spoiler]
 
-[h1]Другое[/h1]
-[i]Совместимость:[/i] Нет известных конфликтов с другими модами.
-[i]Установка:[/i]
-Добавляй мод в любое время, когда захочешь.
-Удаляй этот мод в любое время, когда захочешь.
-Тебе не нужно создавать новую игру.
-[h1]При добавлении мода в ваш модпак вы должны соблюдать условия, упомянутые в ветке на форуме.[/h1]
-[h1]Если вы хотите перевести мод на ваш язык (или другие), пожалуйста посетите ссылку на GitHub над описанием мода.[/h1]
+[h1]Other[/h1]
+[i]Compatibility:[/i] No known mod conflict yet.
+[i]Installation:[/i]
+Add this mod any time you like.
+Remove this mod any time you like.
+You don't have to create a new game.
+[h1]You should obey the clauses mentioned in the forum thread when adding this mod into your modpack.[/h1]
+[h1]If you want to translate this mod into other languages, please check GitHub link above for details.[/h1]
 
-Особая благодарность тестировщикам версии A16:
-[Прочитайте About.xml для того чтобы узнать о них больше]
-Спасибо за вашу великолепную работу в тестах версии Close-Alpha (Закрытой альфы)
+Special Thanks to A16 testers:
+[Check About.xml for their codes]
+Thanks for your splendid work in Close-Alpha tests!
