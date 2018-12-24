@@ -1,8 +1,8 @@
-[h1]RuntimeGC In-Game Cleaner[/h1]
+ï»¿[h1]RuntimeGC In-Game Cleaner[/h1]
 for 1.0 (build 2059)
 
-This mod supports the following languages : English,·±º†ÖÐÎÄ,ÈÕ±¾ÕZ,German.
-Õâ¸ömodÖ§³ÖµÄÓïÑÔ£ºEnglish£¬·±º†ÖÐÎÄ£¬ÈÕ±¾ÕZ£¬German¡£
+This mod supports the following languages : English,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½Õ±ï¿½ï¿½Z,German.
+ï¿½ï¿½ï¿½modÖ§ï¿½Öµï¿½ï¿½ï¿½ï¿½Ô£ï¿½Englishï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½Õ±ï¿½ï¿½Zï¿½ï¿½Germanï¿½ï¿½
 
 This mod is also published on Ludeon Forum.
 Click [url=https://ludeon.com/forums/index.php?topic=46581.msg442647]Here[/url] for previous releases and licenses.
