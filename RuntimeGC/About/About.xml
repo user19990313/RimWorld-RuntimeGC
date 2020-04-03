@@ -2,8 +2,12 @@
 <ModMetaData>
 	<name>RuntimeGC</name>
 	<author>user19990313</author>
+	<packageId>user19990313.RuntimeGC</packageId>
 	<url>https://ludeon.com/forums/index.php?topic=46581.0</url>
-	<targetVersion>1.0.2059</targetVersion>
+	<supportedVersions>
+		<li>1.0</li>
+        <li>1.1</li>
+    </supportedVersions>
 	<description>
 
 &lt;size=20&gt;RuntimeGC In-Game Cleaner&lt;/size&gt;

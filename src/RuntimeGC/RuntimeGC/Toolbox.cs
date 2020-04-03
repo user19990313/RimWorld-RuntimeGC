@@ -30,7 +30,7 @@ namespace Toolbox
                 else
                 {
                     s2.AppendWithComma(list[i].Name);
-                    list[i].previewImage = new Texture2D(0, 0);
+                    list[i].UnsetPreviewImage();
                     b++;
                 }
             }
@@ -89,8 +89,8 @@ namespace Toolbox
             foreach (ModContentPack pack in LoadedModManager.RunningMods)
             {
                 if (pack.IsCoreMod) coreMod = pack;
-                a += ((List<DefPackage>)defPackages.GetValue(pack)).Count;
-                defPackages.SetValue(pack, new List<DefPackage>());
+                a += ((List<Def>)defPackages.GetValue(pack)).Count;
+                defPackages.SetValue(pack, new List<Def>());
             }
 
             Verse.Log.Message("[DefPackageCleaner] Cleaned " + a + " DefPackages.");

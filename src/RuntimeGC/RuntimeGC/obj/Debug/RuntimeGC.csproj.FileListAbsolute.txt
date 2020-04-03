@@ -14,3 +14,7 @@ D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csproj.Core
 D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csproj.CopyComplete
 D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.dll
 D:\CSharp\Workspace\Projects\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.pdb
+D:\Games\Steam\steamapps\common\RimWorld\Mods\RGC\src\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csprojAssemblyReference.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\RGC\src\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.csproj.CoreCompileInputs.cache
+D:\Games\Steam\steamapps\common\RimWorld\Mods\RGC\src\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.dll
+D:\Games\Steam\steamapps\common\RimWorld\Mods\RGC\src\RuntimeGC\RuntimeGC\obj\Debug\RuntimeGC.pdb

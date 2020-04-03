@@ -56,7 +56,7 @@ namespace RuntimeGC
             Text.Font = GameFont.Medium;
             std.Label("RuntimeGCTitle".Translate());
             Text.Font = GameFont.Small;
-            std.Label("RuntimeGCVer".Translate("1.0"));
+            std.Label("RuntimeGCVer".Translate("1.1"));
             std.Label("By user19990313");
             std.Gap();
             std.Label(string.Concat(new object[]{"pawnsAlive:",
@@ -167,7 +167,7 @@ namespace RuntimeGC
                                                j);
             Find.WindowStack.Add(new Dialog_MessageBox(str + "\n\n" + (i == j ?
                                                                 "DlgTextGCAdvice1".Translate() : "DlgTextGCAdvice2".Translate(i - j))
-                                                               + (verbose ? "\n\n" + "DlgTextGCV".Translate() : "")
+                                                               + (verbose ? "\n\n" + (string)"DlgTextGCV".Translate() : "")
             ));
             if(RuntimeGC.Settings.ArchiveGCDialog)
                 Find.Archive.Add(new ArchivedDialog(str, "DlgArchiveTitle".Translate(), null));

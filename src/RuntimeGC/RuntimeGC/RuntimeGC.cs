@@ -10,7 +10,7 @@ namespace RuntimeGC
 
         public RuntimeGC(ModContentPack pack) : base(pack)
         {
-            Settings = LoadedModManager.ReadModSettings<RuntimeGCSettings>(Content.Identifier, this.GetType().Name);
+            Settings = LoadedModManager.ReadModSettings<RuntimeGCSettings>(Content.PackageId, this.GetType().Name);
             Toolbox.Launcher.Launch(Settings.AutoCleanModMetaData, Settings.AutoCleanLanguageData, Settings.AutoCleanDefPackage);
             Mute.Launcher.Launch(Settings.DoMuteGC, Settings.DoMuteBL);
             Verse.Log.Message("[RuntimeGC] Mod settings loaded.");
@@ -19,7 +19,7 @@ namespace RuntimeGC
         public override void WriteSettings()
         {
             Settings.UpdateCache();
-            LoadedModManager.WriteModSettings(Content.Identifier, "RuntimeGC", Settings);
+            LoadedModManager.WriteModSettings(Content.PackageId, "RuntimeGC", Settings);
             if (Settings.RequiresRestart())
             {
                 Find.WindowStack.Add(Dialog_MessageBox.CreateConfirmation("DlgTextRestartRequest".Translate(), delegate
