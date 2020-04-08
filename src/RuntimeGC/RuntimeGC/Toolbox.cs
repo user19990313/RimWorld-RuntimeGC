@@ -84,7 +84,7 @@ namespace Toolbox
 
         public static void CleanDefPackage()
         {
-            FieldInfo defPackages = typeof(ModContentPack).GetField("defPackages", BindingFlags.NonPublic | BindingFlags.Static | BindingFlags.Instance | BindingFlags.Public);
+            FieldInfo defPackages = typeof(ModContentPack).GetField("defs", BindingFlags.NonPublic | BindingFlags.Static | BindingFlags.Instance | BindingFlags.Public);
             int a = 0;
             foreach (ModContentPack pack in LoadedModManager.RunningMods)
             {
